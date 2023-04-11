@@ -15,7 +15,7 @@ const MyApp: AppType = (props) => {
   return (
     <>
       <Head>
-        <title>Page title</title>
+        <title>Image hub</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"

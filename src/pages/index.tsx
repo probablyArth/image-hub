@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Edit images</title>
+        <title>Image hub</title>
         <meta name="description" content="edit images, kind of" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
